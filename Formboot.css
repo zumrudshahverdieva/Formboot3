@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  min-height: 100vh;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.container {
+  text-align: center;
+}
+
+.container .row .col-md-4 i {
+  color: black;
+  font-size: 50px;
+  padding: 10px;
+  border: 1px solid black;
+}
+/*# sourceMappingURL=Formboot.css.map */
